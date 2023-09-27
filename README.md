@@ -17,4 +17,4 @@ de zesde les
 
 [leipe website](38007.hosts2.ma-cloud.nl)
 
-![augurkrick](Users/svenj/OneDrive/Documents/Ma_dingen/Jaar_1/periode_1/skil/les6/les6/AugurkMan.jpg)
+![augurkrick](AugurkMan.jpg)
